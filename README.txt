@@ -1,3 +1,1 @@
-#Note
-
-I'll update the same ones with regex soon hopefully ! :v 
+somes lab tasks of the course Compiler Design
